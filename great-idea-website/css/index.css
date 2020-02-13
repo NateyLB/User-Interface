@@ -115,7 +115,7 @@ header nav a:hover{
 .bigHeader{
 	/* display:inline-block; */
 	float: left;
-	margin: 5% 1% 1% 4%;
+	margin: 10% 1% 1% 5%;
 }
 
 .on{
@@ -135,7 +135,7 @@ header nav a:hover{
 }
 
 .first img{
-	margin:5% 4% 1% 13.2%;
+	margin:5% 4% 1% 45%;
 }
 #topLine{
 	width:90%;
