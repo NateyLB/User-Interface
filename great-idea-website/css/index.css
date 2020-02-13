@@ -120,12 +120,18 @@ header nav a:hover{
     left: 15%;
 }
 
+.innovation{
+	width:100%;
+}
+
 .on{
 	text-align:center;
+	width:100%;
 }
 
 .demand{
 	text-align:center;
+	width:100%;
 }
 
 .get{
