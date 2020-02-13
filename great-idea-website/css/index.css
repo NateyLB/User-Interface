@@ -113,9 +113,11 @@ header nav a:hover{
 
 }
 .bigHeader{
-	/* display:inline-block; */
-	float: left;
-	margin: 10% 1% 1% 5%;
+	display: inline-block;
+    float: left;
+    margin: 10% 1% 1% 0%;
+    position: relative;
+    left: 15%;
 }
 
 .on{
@@ -135,7 +137,12 @@ header nav a:hover{
 }
 
 .first img{
-	margin:5% 4% 1% 45%;
+	margin:1% 1% 1% 1%;
+	
+	width:30%;
+	position: absolute;
+    top: 10%;
+    left: 63%;
 }
 #topLine{
 	width:90%;
@@ -143,7 +150,7 @@ header nav a:hover{
 	border-bottom:1px solid gray;
 }
 .second{
-	display:block;
+	display:inline-block;
 	width:100%;
 	/* border-top:1px solid gray; */
 	padding-top: 3%;
@@ -169,7 +176,7 @@ header nav a:hover{
 }
 
 .third{
-	display:block;
+	display:inline-block;
 	width:100%;
 	padding-bottom:3%;
 }
@@ -188,7 +195,7 @@ header nav a:hover{
 }
 
 #vision{
-	margin:0 3% 3 %0;
+	margin:0 3% 3% %0;
 }
 
 footer{
