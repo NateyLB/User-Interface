@@ -101,82 +101,12 @@ header nav a:hover{
 	float:right;
 }
 
-.first{
-	display:inline-block;
-	width:100%
-}
 
-.first h1{
-	display:block;
-	height:25%;
-	font-size:4rem ;
-
+.services{
+    margin: 10% 3%;
 }
-.bigHeader{
-	/* display:inline-block; */
-	float: left;
-	margin: 5% 1% 1% 4%;
-}
-
-.on{
-	text-align:center;
-}
-
-.demand{
-	text-align:center;
-}
-
-.get{
-	text-align:center;
-	margin:3% auto;
-	border: 1px solid gray;
-	padding: 2% 2%;
-	width: 45%;
-}
-
-.first img{
-	margin:5% 4% 1% 13.2%;
-}
-#topLine{
-	width:90%;
-	margin:auto;
-	border-bottom:1px solid gray;
-}
-.second{
-	display:block;
-	width:100%;
-	/* border-top:1px solid gray; */
-	padding-top: 3%;
-}
-
-#features{
-	width:45%;
-	float:left;
-	margin: 3% 0 0 3%;
-}
-
-#about{
-	width:45%;
-	float:right;
-	margin: 3% 3% 0 0;
-}
-
-.middle-img{
-	display: inline;
-	width: 100%;
-	margin: 5% 5% 5% 3%;
-	padding: 0 7% 0 0;
-}
-
-.third{
-	display:block;
-	width:100%;
-	padding-bottom:3%;
-}
-
-.third div{
-	width:30%;
-	float:left;
+.services h1{
+    font-size:4rem;
 }
 
 #services{
@@ -197,11 +127,12 @@ footer{
 	margin-bottom: 13%;
 }
 
-#bottomLine{
+#topLine{
 	width:90%;
 	margin:auto;
 	border-top:1px solid gray;
 }
+
 
 address{
 	display:block;
